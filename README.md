@@ -1,6 +1,6 @@
 [![MasterHead](https://greymatter.com/wp-content/uploads/2021/12/ezgif.com-optimize.gif)](https://Naresh100893.io)
 <h1 align="center">Hey 👋, I'm Naresh</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps & MLOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh100893&label=Profile%20views&color=0e75b6&style=flat" alt="naresh100893" /> </p>
